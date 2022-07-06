@@ -1,0 +1,11 @@
+C:\Users\ianka\source\repos\YourTube\YourTube\bin\Debug\YourTube.exe.config
+C:\Users\ianka\source\repos\YourTube\YourTube\bin\Debug\YourTube.exe
+C:\Users\ianka\source\repos\YourTube\YourTube\bin\Debug\YourTube.pdb
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.csproj.AssemblyReference.cache
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.Form1.resources
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.Properties.Resources.resources
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.csproj.GenerateResource.cache
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.csproj.CoreCompileInputs.cache
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.exe
+C:\Users\ianka\source\repos\YourTube\YourTube\obj\Debug\YourTube.pdb
